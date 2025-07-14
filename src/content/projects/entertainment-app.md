@@ -1,12 +1,12 @@
 ---
-title: 'Entertainment App'
-description: 'All-in-one entertainment content aggregator'
-status: 'Started'
-priority: 'P2'
-tags: ['SolidJS', 'Go Fiber', 'PostgreSQL']
-image: '/projects/entertainment-app.jpg'
-sourceCode: 'https://github.com/sohhamm/entertainment-app/'
-link: 'https://entertainment-app.soham.app/'
+title: "Entertainment App"
+description: "All-in-one entertainment content aggregator"
+status: "Started"
+priority: "P2"
+tags: ["SolidJS", "Go Fiber", "PostgreSQL"]
+image: "/projects/entertainment-app.jpg"
+sourceCode: "https://github.com/sohhamm/entertainment-app/"
+link: "https://entertainment-app.Abhilash.app/"
 order: 4
 ---
 

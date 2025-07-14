@@ -1,12 +1,12 @@
 ---
-title: 'Invoice App'
-description: 'Streamlined invoicing solution for freelancers and small businesses'
-status: 'Ongoing'
-priority: 'P1'
-tags: ['Fastify', 'PostgreSQL', 'React', 'TurboRepo']
-image: '/projects/invoice-app.jpg'
-sourceCode: 'https://github.com/sohhamm/invoice-app'
-link: 'https://invoice-app.sohamsarkar.com/'
+title: "Invoice App"
+description: "Streamlined invoicing solution for freelancers and small businesses"
+status: "Ongoing"
+priority: "P1"
+tags: ["Fastify", "PostgreSQL", "React", "TurboRepo"]
+image: "/projects/invoice-app.jpg"
+sourceCode: "https://github.com/sohhamm/invoice-app"
+link: "https://invoice-app.AbhilashBijalwan.com/"
 order: 1
 ---
 

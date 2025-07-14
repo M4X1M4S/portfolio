@@ -1,12 +1,12 @@
 ---
-title: 'Weather App'
-description: 'Real-time weather information and forecasting application'
-status: 'Started'
-priority: 'P3'
-tags: ['React']
-image: '/projects/weather-app.jpeg'
-sourceCode: 'https://github.com/sohhamm/weather-app/'
-link: 'https://weather-app.soham.app/'
+title: "Weather App"
+description: "Real-time weather information and forecasting application"
+status: "Started"
+priority: "P3"
+tags: ["React"]
+image: "/projects/weather-app.jpeg"
+sourceCode: "https://github.com/sohhamm/weather-app/"
+link: "https://weather-app.Abhilash.app/"
 order: 10
 ---
 

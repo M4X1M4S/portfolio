@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://sohamsarkar.com/sitemap-index.xml
+Sitemap: https://AbhilashBijalwan.com/sitemap-index.xml
 
 # Crawl delay (optional - prevents aggressive crawling)
 Crawl-delay: 1

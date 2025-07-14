@@ -1,7 +1,7 @@
 {
-  "name": "Soham Sarkar - Digital Gardener & Full-Stack Developer",
-  "short_name": "Soham Sarkar",
-  "description": "I craft impactful software experiences with code. Full-stack developer specializing in React, TypeScript, Go, and modern web technologies. Based in Bangalore, working worldwide.",
+  "name": "Abhilash Bijalwan - Digital Gardener & Full-Stack Developer",
+  "short_name": "Abhilash Bijalwan",
+  "description": "I craft impactful software experiences with code. Full-stack developer specializing in React, TypeScript, Go, and modern web technologies. Based in Dehradun, working worldwide.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
@@ -87,7 +87,7 @@
       "name": "Contact",
       "short_name": "Contact",
       "description": "Get in touch for collaboration",
-      "url": "https://cal.com/soham-sarkar-work",
+      "url": "https://cal.com/Abhilash-Bijalwan-work",
       "icons": [
         {
           "src": "/favicon/favicon-32x32.png",

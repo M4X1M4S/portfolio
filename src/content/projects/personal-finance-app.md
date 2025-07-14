@@ -1,12 +1,12 @@
 ---
-title: 'Personal Finance App'
-description: 'A comprehensive tool for managing personal finances'
-status: 'Ongoing'
-priority: 'P1'
-tags: ['React', 'Rust', 'PostgreSQL']
-image: '/projects/personal-finance-app.jpg'
-sourceCode: 'https://github.com/sohhamm/personal-finance-app'
-link: 'https://personal-finance.soham.app/'
+title: "Personal Finance App"
+description: "A comprehensive tool for managing personal finances"
+status: "Ongoing"
+priority: "P1"
+tags: ["React", "Rust", "PostgreSQL"]
+image: "/projects/personal-finance-app.jpg"
+sourceCode: "https://github.com/sohhamm/personal-finance-app"
+link: "https://personal-finance.Abhilash.app/"
 order: 8
 ---
 

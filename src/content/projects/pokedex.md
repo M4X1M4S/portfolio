@@ -1,12 +1,12 @@
 ---
-title: 'Pokedex'
-description: 'A comprehensive Pokémon information database'
-status: 'Not Started'
-priority: 'P4'
+title: "Pokedex"
+description: "A comprehensive Pokémon information database"
+status: "Not Started"
+priority: "P4"
 tags: []
-image: '/projects/pokedex.jpg'
-sourceCode: 'https://github.com/sohhamm/pokemon-react'
-link: 'https://pokedex.soham.app/'
+image: "/projects/pokedex.jpg"
+sourceCode: "https://github.com/sohhamm/pokemon-react"
+link: "https://pokedex.Abhilash.app/"
 order: 11
 ---
 

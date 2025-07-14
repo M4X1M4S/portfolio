@@ -1,31 +1,31 @@
-import sitemap from '@astrojs/sitemap'
-import {defineConfig} from 'astro/config'
+import sitemap from "@astrojs/sitemap";
+import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://sohamsarkar.com',
+  site: "https://AbhilashBijalwan.com",
   integrations: [
     sitemap({
-      changefreq: 'weekly',
+      changefreq: "weekly",
       priority: 0.7,
       lastmod: new Date(),
       serialize(item) {
         // Set different priorities for different pages
-        if (item.url.includes('/blog/')) {
-          item.priority = 0.8
-          item.changefreq = 'monthly'
-        } else if (item.url.includes('/projects')) {
-          item.priority = 0.9
-          item.changefreq = 'monthly'
-        } else if (item.url.endsWith('/')) {
+        if (item.url.includes("/blog/")) {
+          item.priority = 0.8;
+          item.changefreq = "monthly";
+        } else if (item.url.includes("/projects")) {
+          item.priority = 0.9;
+          item.changefreq = "monthly";
+        } else if (item.url.endsWith("/")) {
           // Homepage
-          item.priority = 1.0
-          item.changefreq = 'weekly'
-        } else if (item.url.includes('/about')) {
-          item.priority = 0.8
-          item.changefreq = 'monthly'
+          item.priority = 1.0;
+          item.changefreq = "weekly";
+        } else if (item.url.includes("/about")) {
+          item.priority = 0.8;
+          item.changefreq = "monthly";
         }
-        return item
+        return item;
       },
       // Filter out any unwanted pages
       // filter: (page) => {
@@ -39,10 +39,10 @@ export default defineConfig({
       rollupOptions: {
         output: {
           manualChunks: {
-            vendor: ['motion'],
+            vendor: ["motion"],
           },
         },
       },
     },
   },
-})
+});
